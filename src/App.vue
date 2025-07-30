@@ -3,7 +3,7 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <div class="grid m-2 p-2">
+  <div class="grid mx-2 mb-2 mt-8 p-2">
     <div class="place-self-center">
       <RouterView />
     </div>
