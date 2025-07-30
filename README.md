@@ -1,5 +1,5 @@
 # learn-vue-3-team-management
-This repository contains my hands-on learning projects and notes while following the Laracasts: Learn Vue 3 Step-by-Step series.
+This repository contains my hands-on learning projects and notes while following the [Laracasts: Learn Vue 3 Step-by-Step](https://laracasts.com/series/learn-vue-3-step-by-step/) series.
 
 Throughout the course, I built small, focused features and components using Vue 3’s Composition API, reactive state management with Pinia, component architecture, form handling, lifecycle hooks, and more.
 
